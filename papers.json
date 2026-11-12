@@ -1,0 +1,10 @@
+{
+  "fictional-webcam-001": {
+    "title": "Webcam Pulse Estimation (Fictional)",
+    "abstract": "This fictional study tested webcam-based heart-rate estimation in 24 seated adult participants under stable indoor lighting. Estimates were compared with a fingertip pulse sensor during five-minute seated recordings. Mean absolute error was 3.2 beats per minute. Exercise conditions were not evaluated."
+  },
+  "fictional-seedling-002": {
+    "title": "Seedling Growth Under Indoor LED Lighting (Fictional)",
+    "abstract": "This fictional study compared growth in 18 basil seedlings under two LED lighting schedules in a controlled indoor room for four weeks. Seedlings receiving 12 hours of light per day had greater mean height than those receiving 8 hours. No fertilizer was used in either group. Outdoor growing conditions and other plant species were not evaluated."
+  }
+}
